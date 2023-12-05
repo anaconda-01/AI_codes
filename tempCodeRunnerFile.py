@@ -1,0 +1,1 @@
+on B A^on_table A^clear B^arm_empty
